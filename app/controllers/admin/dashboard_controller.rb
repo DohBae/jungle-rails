@@ -1,5 +1,6 @@
 class Admin::DashboardController < ApplicationController
   def show
-    @products = Product.all
+    @inventory_count = Product.sum(:quantity)
+    @category_count = Product.count(:category_id)
   end
 end
