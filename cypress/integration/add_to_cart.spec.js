@@ -10,6 +10,7 @@ describe('add item to cart and watch cart count increase by 1', () => {
     .parent()
     .find('button[type=submit]')
     .click({force: true})
+    cy.contains('My Cart').should('have.length', 1)
   });
 
 
