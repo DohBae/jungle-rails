@@ -1,6 +1,6 @@
 /// <reference types="cypress" />
 
-describe('visit Jungle homepage', () => {
+describe('click on product to go to product page', () => {
   beforeEach(() => {
     cy.visit('http://localhost:3000/')
   })
