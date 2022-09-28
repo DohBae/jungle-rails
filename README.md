@@ -30,11 +30,11 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 - PostgreSQL 9.x
 - Stripe
 
-![Add item to cart](https://github.com/DohBae/jungle-rails/blob/master/docs/add_item_cart.png?raw=true "Add item to cart")
-![Admin Categories]([url](https://github.com/DohBae/jungle-rails/blob/master/docs/admin_categories.png?raw=true) "Admin Categories")
-![Alt text](url "Title")
-![Alt text](url "Title")
-![Alt text](url "Title")
-![Alt text](url "Title")
-![Alt text](url "Title")
-![Alt text](url "Title")
+![Add item to cart](https://github.com/DohBae/jungle-rails/blob/master/docs/add_item_cart.png?raw=true)
+![Admin Categories](https://github.com/DohBae/jungle-rails/blob/master/docs/admin_categories.png?raw=true "Title")
+![Admin Products](https://github.com/DohBae/jungle-rails/blob/master/docs/admin_products.png?raw=true "Title")
+![Cart](url "Title")
+![Credit Card Payment](https://github.com/DohBae/jungle-rails/blob/master/docs/cc_payment.png?raw=true(https://github.com/DohBae/jungle-rails/blob/master/docs/cart.png?raw=true) "Title")
+![Completed Order](https://github.com/DohBae/jungle-rails/blob/master/docs/completed_order.png?raw=true "Title")
+![Home Page](https://github.com/DohBae/jungle-rails/blob/master/docs/home_page.png?raw=true "Title")
+![User Logged In](https://github.com/DohBae/jungle-rails/blob/master/docs/user_logged_in.png?raw=true "Title")
