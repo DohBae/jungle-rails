@@ -30,8 +30,8 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 - PostgreSQL 9.x
 - Stripe
 
-![Add item to cart](https://github.com/DohBae/jungle-rails/blob/master/docs/add_item_cart.png?raw=true)
-![Alt text](url "Title")
+![Add item to cart](https://github.com/DohBae/jungle-rails/blob/master/docs/add_item_cart.png?raw=true "Add item to cart")
+![Admin Categories]([url](https://github.com/DohBae/jungle-rails/blob/master/docs/admin_categories.png?raw=true) "Admin Categories")
 ![Alt text](url "Title")
 ![Alt text](url "Title")
 ![Alt text](url "Title")
